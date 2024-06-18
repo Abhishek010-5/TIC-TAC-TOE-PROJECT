@@ -1,2 +1,3 @@
 # TIC-TAC-TOE-PROJECT
-Using CPP
+Use - VS Code
+This C++ Tic-Tac-Toe project consists of a simple console-based game for two players. It utilizes a 3x3 grid stored in a character array square. Players take turns marking their chosen box with 'X' or 'Y'. The checkwin function checks all possible winning combinations. The marked function updates the grid based on player input. The display function prints the current state of the grid. The main function orchestrates the game flow, alternating turns and checking for a winner or a draw. The game announces the winner or declares a draw after all possible moves are made.
